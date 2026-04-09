@@ -6,7 +6,13 @@
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-ff4b4b?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-ff8c42?style=for-the-badge&logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
- 
+
+---
+
+## Live Website 
+
+Visit the website live at : https://trafficai-tracker.streamlit.app/
+
 ---
  
 ## ✨ Features
