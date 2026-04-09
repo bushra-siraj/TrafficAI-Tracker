@@ -114,4 +114,22 @@ requests
 ## 📄 License
  
 [MIT](LICENSE)
+
+ ---
  
+ ## 🤝 Contact & Feedback
+I'm always looking for ways to improve the "bloom" experience!
+* **LinkedIn:** [https://www.linkedin.com/in/bushrasiraj/]
+* **Portfolio:** [https://bushrasiraj-portfolio.lovable.app/]
+* **Email:** [BushraSiraj586@gmail.com]
+  
+---
+
+*Designed with ❤️ by **Bushra Siraj***
+
+---
+
+## 📸 Preview
+
+<img width="960" height="421" alt="2026-04-10 01_01_44-Settings" src="https://github.com/user-attachments/assets/e6dcf4c4-155d-49ca-99b8-732a9928b51a" />
+<img width="930" height="425" alt="2026-04-10 01_00_36-" src="https://github.com/user-attachments/assets/9a94e7a1-f73d-471c-a085-dfad75609f4c" />
